@@ -1,8 +1,10 @@
 # [Godot] Pokemon Transitions
 Old pokemon-style screen transitions.
 
-## Video sample
-[![Whoa, some problem occurred! You should see the video thumbnail instead of this text!](http://img.youtube.com/vi/7MrJkCDC1pU/0.jpg)](http://www.youtube.com/watch?v=7MrJkCDC1pU)
+## [:tv: Video sample](http://www.youtube.com/watch?v=7MrJkCDC1pU)
+[![Preview image failed to load!](img/preview1.gif)](http://www.youtube.com/watch?v=7MrJkCDC1pU)
+[![Preview image failed to load!](img/preview2.gif)](http://www.youtube.com/watch?v=7MrJkCDC1pU)
+[![Preview image failed to load!](img/preview3.gif)](http://www.youtube.com/watch?v=7MrJkCDC1pU)
 
 ## How does it work?
 This transition uses an Alpha Test shader and attempts to replicate retro GameBoy-style Pokemon battle transitions.
