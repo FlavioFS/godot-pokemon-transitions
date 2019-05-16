@@ -10,7 +10,7 @@ Old pokemon-style screen transitions.
 This transition uses an Alpha Test shader and attempts to replicate retro GameBoy-style Pokemon battle transitions.
 Most transition-related files are in the transitions directory:
 
-### [Transitions Directory](scenes/transition)
- - [Transition shader](scenes/transition/Transition.shader)
- - [Transition sprite](scenes/transition/TexRect.gd)
- - [Transition scene](scenes/transition/Transition.gd)
+### [Transitions Directory](godot-pokemon-transitions/scenes/transition)
+ - [Transition shader](godot-pokemon-transitions/scenes/transition/Transition.shader)
+ - [Transition sprite](godot-pokemon-transitions/scenes/transition/TexRect.gd)
+ - [Transition scene](godot-pokemon-transitions/scenes/transition/Transition.gd)
