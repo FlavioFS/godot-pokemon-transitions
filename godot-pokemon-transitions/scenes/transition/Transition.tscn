@@ -2,7 +2,7 @@
 
 [ext_resource path="res://scenes/transition/Transition.gd" type="Script" id=1]
 [ext_resource path="res://scenes/transition/Transition.shader" type="Shader" id=2]
-[ext_resource path="res://scenes/Transition/transition-imgs/transition-hbars.png" type="Texture" id=3]
+[ext_resource path="res://scenes/transition/transition-imgs/transition-hbars.png" type="Texture" id=3]
 [ext_resource path="res://scenes/transition/TexRect.gd" type="Script" id=4]
 
 [sub_resource type="ShaderMaterial" id=1]
@@ -20,6 +20,7 @@ anchor_bottom = 1.0
 texture = ExtResource( 3 )
 expand = true
 script = ExtResource( 4 )
+duration = 1.0
+fill = 0.0
 
 [node name="Tween" type="Tween" parent="TextureRect"]
-
