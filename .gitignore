@@ -1,4 +1,10 @@
-**/*.import
+*~
+*.bak
+*.exe
+*.pck
+*.tmp
+*.x86_64
+*.x86
 
-# Misc
 .DS_Store
+.import/
