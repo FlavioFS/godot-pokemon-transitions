@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/transition-vbars.png-8d0d49d29d2ac5f5ec83ecb167e6615d.stex"
+path="res://.import/transition-slashes.png-4047f2090582dfcc289b4dd9a936877e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/transition/transition-imgs/transition-vbars.png"
-dest_files=[ "res://.import/transition-vbars.png-8d0d49d29d2ac5f5ec83ecb167e6615d.stex" ]
+source_file="res://scenes/transition/transition-imgs/transition-slashes.png"
+dest_files=[ "res://.import/transition-slashes.png-4047f2090582dfcc289b4dd9a936877e.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
