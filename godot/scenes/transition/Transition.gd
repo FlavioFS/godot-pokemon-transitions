@@ -68,7 +68,7 @@ func _process(delta):
 ###########################################################
 func _set_mask(transition_mask:int):
 	var new_mask : Texture = load(
-		"res://scenes/Transition/transition-imgs/%s" %
+		"res://scenes/transition/transition-imgs/%s" %
 		transition_list[transition_mask])
 	if new_mask:
 		mask = transition_mask
